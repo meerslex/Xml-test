@@ -1,0 +1,17 @@
+<page>
+  <author>Meera</author>
+  <title>About me</title>
+  <abstract>I am am IT architect at XYZ cprporation. I have a masters in computer schience from ABC university and have about a decade of experience in web design and development.</abstract>
+  <body>
+    <paragraph>First paragraph</paragraph>
+    <paragraph>Second paragraph</paragraph>
+  </body>
+</page>
+
+<people>
+  <person>
+    <age>44</age>
+    <sex>F</sex>
+    <name preferred="Meera">Meera Yuvaraj</name>
+  </person>
+</people>
